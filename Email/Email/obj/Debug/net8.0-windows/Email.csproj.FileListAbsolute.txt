@@ -1,0 +1,16 @@
+C:\Users\Z004WV3M\source\repos\Email\Email\bin\Debug\net8.0-windows\Email.exe
+C:\Users\Z004WV3M\source\repos\Email\Email\bin\Debug\net8.0-windows\Email.deps.json
+C:\Users\Z004WV3M\source\repos\Email\Email\bin\Debug\net8.0-windows\Email.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\Email\Email\bin\Debug\net8.0-windows\Email.dll
+C:\Users\Z004WV3M\source\repos\Email\Email\bin\Debug\net8.0-windows\Email.pdb
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.Form1.resources
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.csproj.GenerateResource.cache
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.dll
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\refint\Email.dll
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.pdb
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\Email.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\Email\Email\obj\Debug\net8.0-windows\ref\Email.dll

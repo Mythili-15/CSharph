@@ -1,0 +1,28 @@
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.exe
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.deps.json
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.pdb
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\refint\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.pdb
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\PhoneBookConsoleApp\obj\Debug\net8.0\ref\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.exe
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.deps.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\bin\Debug\net8.0\PhoneBookConsoleApp.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\refint\PhoneBookConsoleApp.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\PhoneBookConsoleApp.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\PhoneBookConsoleApp\obj\Debug\net8.0\ref\PhoneBookConsoleApp.dll

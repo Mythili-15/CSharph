@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1702EB76-EF98-4FD5-969F-293A077014E0}|PrimaryConstructor-old\\PrimaryConstructor-old.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\primaryconstructor-old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1702EB76-EF98-4FD5-969F-293A077014E0}|PrimaryConstructor-old\\PrimaryConstructor-old.csproj|solutionrelative:primaryconstructor-old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C54CAE1-82F3-45C4-A3D3-AD6E6153DAF8}|PrimaryConstructor-new\\PrimaryConstructor-new.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\primaryconstructor-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C54CAE1-82F3-45C4-A3D3-AD6E6153DAF8}|PrimaryConstructor-new\\PrimaryConstructor-new.csproj|solutionrelative:primaryconstructor-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137FC917-C7C8-4A65-A9B2-D69545D2CBA8}|ExperimentlAttribute\\ExperimentlAttribute.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\experimentlattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137FC917-C7C8-4A65-A9B2-D69545D2CBA8}|ExperimentlAttribute\\ExperimentlAttribute.csproj|solutionrelative:experimentlattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7DC954-3B5E-42FE-8BB2-35BFEA1BBD67}|Inline Array\\Inline Array.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\inline array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7DC954-3B5E-42FE-8BB2-35BFEA1BBD67}|Inline Array\\Inline Array.csproj|solutionrelative:inline array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7DC954-3B5E-42FE-8BB2-35BFEA1BBD67}|Inline Array\\Inline Array.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\inline array\\buffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7DC954-3B5E-42FE-8BB2-35BFEA1BBD67}|Inline Array\\Inline Array.csproj|solutionrelative:inline array\\buffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658B1713-17AA-4BA6-BBC5-29B3321CE426}|AliasAnyType\\AliasAnyType.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\aliasanytype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658B1713-17AA-4BA6-BBC5-29B3321CE426}|AliasAnyType\\AliasAnyType.csproj|solutionrelative:aliasanytype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658B1713-17AA-4BA6-BBC5-29B3321CE426}|AliasAnyType\\AliasAnyType.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\aliasanytype\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658B1713-17AA-4BA6-BBC5-29B3321CE426}|AliasAnyType\\AliasAnyType.csproj|solutionrelative:aliasanytype\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E6D6C4-CF94-4C8B-990F-F78F8068A920}|DefaultLambdaParameter\\DefaultLambdaParameter.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\defaultlambdaparameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E6D6C4-CF94-4C8B-990F-F78F8068A920}|DefaultLambdaParameter\\DefaultLambdaParameter.csproj|solutionrelative:defaultlambdaparameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A430226-F2D7-458B-BEA6-4C9399AD69F8}|RefReadOnly-new\\RefReadOnly-new.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\refreadonly-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A430226-F2D7-458B-BEA6-4C9399AD69F8}|RefReadOnly-new\\RefReadOnly-new.csproj|solutionrelative:refreadonly-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86F5665-4FE4-4611-BFE3-07296A3DF40E}|RefReadOnly\\RefReadOnly-old.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\refreadonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86F5665-4FE4-4611-BFE3-07296A3DF40E}|RefReadOnly\\RefReadOnly-old.csproj|solutionrelative:refreadonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E23BB4D-05EB-4C51-9A37-DBC11664CCD9}|CollecvtionExpression-old\\CollectionExpression-old.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\collecvtionexpression-old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E23BB4D-05EB-4C51-9A37-DBC11664CCD9}|CollecvtionExpression-old\\CollectionExpression-old.csproj|solutionrelative:collecvtionexpression-old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154BDF39-8A44-40AD-A4A8-1E0AF3A9542A}|Csharp New Features\\CollectionExpression-new.csproj|c:\\users\\z004wv3m\\source\\repos\\csharp new features\\csharp new features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154BDF39-8A44-40AD-A4A8-1E0AF3A9542A}|Csharp New Features\\CollectionExpression-new.csproj|solutionrelative:csharp new features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\PrimaryConstructor-old\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryConstructor-old\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\PrimaryConstructor-old\\Program.cs",
+              "RelativeToolTip": "PrimaryConstructor-old\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:32:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\PrimaryConstructor-new\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryConstructor-new\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\PrimaryConstructor-new\\Program.cs",
+              "RelativeToolTip": "PrimaryConstructor-new\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:30:42.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\ExperimentlAttribute\\Program.cs",
+              "RelativeDocumentMoniker": "ExperimentlAttribute\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\ExperimentlAttribute\\Program.cs",
+              "RelativeToolTip": "ExperimentlAttribute\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:03:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buffer.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Inline Array\\Buffer.cs",
+              "RelativeDocumentMoniker": "Inline Array\\Buffer.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Inline Array\\Buffer.cs",
+              "RelativeToolTip": "Inline Array\\Buffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:52:51.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Inline Array\\Program.cs",
+              "RelativeDocumentMoniker": "Inline Array\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Inline Array\\Program.cs",
+              "RelativeToolTip": "Inline Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:52:16.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\AliasAnyType\\Employee.cs",
+              "RelativeDocumentMoniker": "AliasAnyType\\Employee.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\AliasAnyType\\Employee.cs",
+              "RelativeToolTip": "AliasAnyType\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:47:06.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\AliasAnyType\\Program.cs",
+              "RelativeDocumentMoniker": "AliasAnyType\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\AliasAnyType\\Program.cs",
+              "RelativeToolTip": "AliasAnyType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:44:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\DefaultLambdaParameter\\Program.cs",
+              "RelativeDocumentMoniker": "DefaultLambdaParameter\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\DefaultLambdaParameter\\Program.cs",
+              "RelativeToolTip": "DefaultLambdaParameter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:36:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\RefReadOnly-new\\Program.cs",
+              "RelativeDocumentMoniker": "RefReadOnly-new\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\RefReadOnly-new\\Program.cs",
+              "RelativeToolTip": "RefReadOnly-new\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:29:36.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\RefReadOnly\\Program.cs",
+              "RelativeDocumentMoniker": "RefReadOnly\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\RefReadOnly\\Program.cs",
+              "RelativeToolTip": "RefReadOnly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:28:37.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\CollecvtionExpression-old\\Program.cs",
+              "RelativeDocumentMoniker": "CollecvtionExpression-old\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\CollecvtionExpression-old\\Program.cs",
+              "RelativeToolTip": "CollecvtionExpression-old\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:14:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Csharp New Features\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp New Features\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\source\\repos\\Csharp New Features\\Csharp New Features\\Program.cs",
+              "RelativeToolTip": "Csharp New Features\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:14:08.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book id="1">
+    <title>Introduction to C# Programming</title>
+    <Author>Jane Doe</Author>
+    <year>2021</year>
+  </book>
+  <book id="2">
+    <title>Advanced C# Programming</title>
+    <Author>John Smith</Author>
+    <year>2022</year>
+  </book>
+  <book id="3">
+    <title>Mastering XML</title>
+    <Author>Emily White</Author>
+    <year>2020</year>
+  </book>
+  <book id="4">
+    <title>Working with Files</title>
+    <Author>James</Author>
+    <year>2021</year>
+  </book>
+</library>

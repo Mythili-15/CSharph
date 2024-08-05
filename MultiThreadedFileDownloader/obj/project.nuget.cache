@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "enWtd/E44a4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MultiThreadedFileDownloader\\MultiThreadedFileDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\videolan.libvlc.windows\\3.0.20\\videolan.libvlc.windows.3.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

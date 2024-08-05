@@ -1,0 +1,42 @@
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\SnakeConsoleGame\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\SnakeConsoleGame\obj\Debug\net8.0\ref\ConsoleApp1.dll

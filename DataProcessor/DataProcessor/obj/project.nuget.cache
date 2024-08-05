@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFs/eazzBsA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\DataProcessor\\DataProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\csvhelper\\31.0.0\\csvhelper.31.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.io.abstractions\\20.0.15\\system.io.abstractions.20.0.15.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.runtime.caching\\8.0.0\\system.runtime.caching.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\testableio.system.io.abstractions\\20.0.15\\testableio.system.io.abstractions.20.0.15.nupkg.sha512",
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\20.0.15\\testableio.system.io.abstractions.wrappers.20.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

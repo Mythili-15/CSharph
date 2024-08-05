@@ -1,0 +1,135 @@
+initialize grid dimensions (gridW, gridH)
+initialize grid with cells
+initialize snake attributes (currentCell, food, FoodCount, direction, speed, Populated, Lost, snakeLength)
+
+Main function:
+    if grid is not populated:
+        set initial snake length and FoodCount
+        populate grid with cells
+        set currentCell to the center of the grid
+        update snake position on grid
+        add food to grid
+        set grid as populated
+    while game is not lost:
+        call Restart function
+
+Restart function:
+    set cursor to (0, 0)
+    print the grid
+    display snake length
+    call getInput function
+
+updateScreen function:
+    set cursor to (0, 0)
+    print the grid
+    display snake length
+
+getInput function:
+    while no key is pressed:
+        call Move function
+        update screen
+    read input key
+    process input key with doInput function
+
+checkCell function:
+    if cell contains food:
+        call eatFood function
+    if cell is visited:
+        call Lose function
+
+Lose function:
+    display "You lose!" message
+    wait for 1 second
+    restart the application
+
+doInput function:
+    switch on input character:
+        case 'w': call goUp function
+        case 's': call goDown function
+        case 'a': call goRight function
+        case 'd': call goLeft function
+
+addFood function:
+    generate random position on grid
+    if the position is empty:
+        place food at the position
+
+eatFood function:
+    increase snake length by 1
+    call addFood function
+
+goUp function:
+    if direction is not down:
+        set direction to up
+
+goRight function:
+    if direction is not left:
+        set direction to right
+
+goDown function:
+    if direction is not up:
+        set direction to down
+
+goLeft function:
+    if direction is not right:
+        set direction to left
+
+Move function:
+    if direction is up:
+        if the cell above contains snake body:
+            call Lose function
+        visit the cell above
+    else if direction is right:
+        if the cell to the left contains snake body:
+            call Lose function
+        visit the cell to the left
+    else if direction is down:
+        if the cell below contains snake body:
+            call Lose function
+        visit the cell below
+    else if direction is left:
+        if the cell to the right contains snake body:
+            call Lose function
+        visit the cell to the right
+    wait for a short duration
+
+visitCell function:
+    set current cell as snake body
+    mark current cell as visited
+    set decay time for the cell
+    check the new cell
+    set currentCell to the new cell
+    update snake position
+
+updatePos function:
+    set current cell as snake head based on direction
+    mark current cell as not visited
+
+populateGrid function:
+    for each cell in grid:
+        if the cell is at the border:
+            set cell as wall
+        else:
+            clear the cell
+
+printGrid function:
+    for each cell in grid:
+        decay snake body in the cell
+        print cell value
+    print new line at the end of each row
+
+Cell class:
+    properties: val, x, y, visited, decay
+    methods: decaySnake, Clear, Set
+
+decaySnake method:
+    decrease decay by 1
+    if decay is 0:
+        mark cell as not visited
+        clear the cell
+
+Clear method:
+    set cell value to empty
+
+Set method:
+    set cell value to new value

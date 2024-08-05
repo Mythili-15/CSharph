@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <books>
+    <book id="1">
+      <title>Book One</title>
+      <author>Author One</author>
+      <price>10</price>
+      <year>2021</year>
+    </book>
+    <book id="2">
+      <title>Book Two</title>
+      <author>Author Two</author>
+      <price>20</price>
+      <year>2022</year>
+    </book>
+    <book id="3">
+      <title>Book Three</title>
+      <author>Author Three</author>
+      <price>15</price>
+      <year>2020</year>
+    </book>
+    <book id="4">
+      <title>Book Four</title>
+      <author>Author Four</author>
+      <price>25</price>
+      <year>2019</year>
+    </book>
+    <book id="5">
+      <title>Book Five</title>
+      <author>Author Five</author>
+      <price>30</price>
+      <year>2018</year>
+    </book>
+  </books>
+</library>

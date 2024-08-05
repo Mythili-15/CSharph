@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Book1</Title>
+    <Author>Author1</Author>
+    <Year>2021</Year>
+  </Book>
+  <Book>
+    <Title>Book2</Title>
+    <Author>Author2</Author>
+    <Year>2022</Year>
+  </Book>
+</ArrayOfBook>

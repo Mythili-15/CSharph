@@ -1,0 +1,38 @@
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.exe
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.deps.json
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.dll
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.pdb
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\bin\Debug\net8.0-windows\DiffPlex.dll
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.Form1.resources
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.GenerateResource.cache
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComp.3D84FC29.Up2Date
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.dll
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\refint\FileComparison.dll
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.pdb
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\FileComparison\FileComparison\obj\Debug\net8.0-windows\ref\FileComparison.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.exe
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.deps.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\FileComparison.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\bin\Debug\net8.0-windows\DiffPlex.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.Form1.resources
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.GenerateResource.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComp.3D84FC29.Up2Date
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\refint\FileComparison.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\FileComparison.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\FileComparison\FileComparison\obj\Debug\net8.0-windows\ref\FileComparison.dll

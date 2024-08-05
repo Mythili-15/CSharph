@@ -1,0 +1,14 @@
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\game_RPS\bin\Debug\net8.0\game_RPS.exe
+C:\Users\Z004WV3M\source\repos\game_RPS\bin\Debug\net8.0\game_RPS.deps.json
+C:\Users\Z004WV3M\source\repos\game_RPS\bin\Debug\net8.0\game_RPS.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\game_RPS\bin\Debug\net8.0\game_RPS.dll
+C:\Users\Z004WV3M\source\repos\game_RPS\bin\Debug\net8.0\game_RPS.pdb
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.dll
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\refint\game_RPS.dll
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.pdb
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\game_RPS.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\game_RPS\obj\Debug\net8.0\ref\game_RPS.dll

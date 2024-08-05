@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VideoLAN.LibVLC.Windows/3.0.20": {}
+    }
+  },
+  "libraries": {
+    "VideoLAN.LibVLC.Windows/3.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ahujCn2kTPJSLEpwXu2BHIyv9Ke/iahd367hFwMMHSP9UkSOYC5QekOGFrSxKz22yZP67arcfCgNgDIcV31DpQ==",
+      "path": "videolan.libvlc.windows/3.0.20",
+      "hashPath": "videolan.libvlc.windows.3.0.20.nupkg.sha512"
+    }
+  }
+}

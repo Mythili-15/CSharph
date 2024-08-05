@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\loginregistrationform\\loginregistrationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\loginregistrationform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5E0FF-FDE9-425E-A225-8BAA53423F8D}|LoginRegistrationForm\\LoginRegistrationForm.csproj|solutionrelative:loginregistrationform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.Designer.cs",
+              "RelativeToolTip": "LoginRegistrationForm\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:47:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:32:39.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\MainForm.cs",
+              "RelativeToolTip": "LoginRegistrationForm\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:30:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Form1.cs",
+              "RelativeToolTip": "LoginRegistrationForm\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:43:03.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Signup.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\Signup.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Signup.cs",
+              "RelativeToolTip": "LoginRegistrationForm\\Signup.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAIwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:44:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:42:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Program.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Program.cs",
+              "RelativeToolTip": "LoginRegistrationForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:42:38.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Signup.cs",
+              "RelativeDocumentMoniker": "LoginRegistrationForm\\Signup.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Signup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CSharp Learnings\\LoginRegistrationForm\\LoginRegistrationForm\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:42:35.301Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 777,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

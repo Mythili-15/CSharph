@@ -1,0 +1,36 @@
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Z004WV3M\source\repos\Calculator\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\source\repos\Calculator\obj\Debug\net8.0\Calculator.csproj.CopyComplete
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.csproj.Up2Date
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\CSharp Learnings\Calculator\obj\Debug\net8.0\ref\Calculator.dll

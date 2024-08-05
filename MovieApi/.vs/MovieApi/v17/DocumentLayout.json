@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\movieapi\\studentapi\\migrations\\moviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A150E81C-189B-41C9-B5E1-DFE994724491}|StudentApi\\MovieApi.csproj|solutionrelative:studentapi\\migrations\\moviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 133,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA9wGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:19:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:19:18.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Models\\MovieContext.cs",
+              "RelativeToolTip": "StudentApi\\Models\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:17:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Models\\Movie.cs",
+              "RelativeToolTip": "StudentApi\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:17:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\appsettings.json",
+              "RelativeToolTip": "StudentApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T09:08:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\MovieApi\\StudentApi\\Program.cs",
+              "RelativeToolTip": "StudentApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:06:46.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

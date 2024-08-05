@@ -1,0 +1,28 @@
+C:\Users\Z004WV3M\source\repos\XMLManipulation\bin\Debug\net8.0\XMLManipulation.exe
+C:\Users\Z004WV3M\source\repos\XMLManipulation\bin\Debug\net8.0\XMLManipulation.deps.json
+C:\Users\Z004WV3M\source\repos\XMLManipulation\bin\Debug\net8.0\XMLManipulation.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\XMLManipulation\bin\Debug\net8.0\XMLManipulation.dll
+C:\Users\Z004WV3M\source\repos\XMLManipulation\bin\Debug\net8.0\XMLManipulation.pdb
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.dll
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\refint\XMLManipulation.dll
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.pdb
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\XMLManipulation.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\XMLManipulation\obj\Debug\net8.0\ref\XMLManipulation.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\bin\Debug\net8.0\XMLManipulation.exe
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\bin\Debug\net8.0\XMLManipulation.deps.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\bin\Debug\net8.0\XMLManipulation.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\bin\Debug\net8.0\XMLManipulation.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\bin\Debug\net8.0\XMLManipulation.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\refint\XMLManipulation.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\XMLManipulation.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\XMLManipulation\obj\Debug\net8.0\ref\XMLManipulation.dll

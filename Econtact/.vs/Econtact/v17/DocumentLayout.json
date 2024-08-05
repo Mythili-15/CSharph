@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|c:\\users\\z004wv3m\\documents\\documents\\csharp learnings\\econtact\\econtact\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\econtact\\econtactclasses\\contactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtactclasses\\contactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\econtact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Econtact.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeToolTip": "Econtact\\Econtact.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAwwIkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:47:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\App.config",
+              "RelativeDocumentMoniker": "Econtact\\App.config",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\App.config",
+              "RelativeToolTip": "Econtact\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T18:20:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contactClass.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\econtactClasses\\contactClass.cs",
+              "RelativeDocumentMoniker": "Econtact\\econtactClasses\\contactClass.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\econtactClasses\\contactClass.cs",
+              "RelativeToolTip": "Econtact\\econtactClasses\\contactClass.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAIwK4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:18:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Econtact.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Econtact.cs [Design]",
+              "RelativeToolTip": "Econtact\\Econtact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:47:34.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Program.cs",
+              "RelativeDocumentMoniker": "Econtact\\Program.cs",
+              "ToolTip": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\Econtact\\Econtact\\Program.cs",
+              "RelativeToolTip": "Econtact\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:47:34.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

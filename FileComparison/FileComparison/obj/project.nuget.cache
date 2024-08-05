@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0rVK9txack=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004WV3M\\Documents\\Documents\\CSharp Learnings\\FileComparison\\FileComparison\\FileComparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004WV3M\\.nuget\\packages\\diffplex\\1.7.2\\diffplex.1.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

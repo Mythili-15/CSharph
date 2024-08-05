@@ -1,0 +1,56 @@
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\DataProcessor.exe
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\DataProcessor.deps.json
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\DataProcessor.runtimeconfig.json
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\DataProcessor.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\DataProcessor.pdb
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfo.cs
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\refint\DataProcessor.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.pdb
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.genruntimeconfig.cache
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\ref\DataProcessor.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.IO.Abstractions.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Z004WV3M\source\repos\DataProcessor\obj\Debug\net8.0\DataProc.18A6199F.Up2Date
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\DataProcessor.exe
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\DataProcessor.deps.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\DataProcessor.runtimeconfig.json
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\DataProcessor.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\DataProcessor.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.IO.Abstractions.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.AssemblyReference.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfo.cs
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProc.18A6199F.Up2Date
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\refint\DataProcessor.dll
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.pdb
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\DataProcessor.genruntimeconfig.cache
+C:\Users\Z004WV3M\Documents\Documents\CSharp Learnings\DataProcessor\obj\Debug\net8.0\ref\DataProcessor.dll
